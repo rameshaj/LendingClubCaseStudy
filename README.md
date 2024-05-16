@@ -2,6 +2,11 @@
 Lending Club Case Study -
 To do EDA on Lending Club data and provide insights
 
+## Instruction
+- ipymb file contain Pythin code
+- AjayRameshLeadingCaseStudy.pdf file should be downloaded for full preview. Sometimes it does not show
+  full content in Git
+
 ## Table of Contents
 * [General Info]
 * [Technologies]
