@@ -4,6 +4,7 @@ To do EDA on Lending Club data and provide insights
 
 ## Table of Contents
 * [General Info]
+* [Technologies]
 * [Conclusions](#Insights Provided on Lending Club Data whether to provide loan or not)
 * [Acknowledgements](#acknowledgements: Ajay Ramesh and Samuel)
 
@@ -16,16 +17,15 @@ To do EDA on Lending Club data and provide insights
 - Provide insights on whether to give loan or not
 
 ##Technologies Used  - 
-  - Python
-- - Jupyter Notebookss
-      -
-
-
+  - Python for analysing data
+  - Jupyter Notebookss Editor
+      
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Risk Factors Identification: Certain borrower attributes (e.g., lower credit scores, higher debt-to-income ratios) and loan characteristics (e.g., longer terms, larger loan amounts) are associated with increased default risk.
+- Targeted Risk Mitigation: By focusing on high-risk borrower segments and adjusting lending criteria accordingly, we can mitigate credit risk and optimize portfolio performance.
+- Enhanced Decision-Making: Leveraging predictive models incorporating key risk factors can improve loan underwriting processes and inform strategic decisions in risk management.
+
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
