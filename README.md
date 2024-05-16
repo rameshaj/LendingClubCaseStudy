@@ -16,7 +16,7 @@ To do EDA on Lending Club data and provide insights
 - We used loan.csv file 
 - Provide insights on whether to give loan or not
 
-##Technologies Used  - 
+## Technologies Used  - 
   - Python for analysing data
   - Jupyter Notebookss Editor
       
